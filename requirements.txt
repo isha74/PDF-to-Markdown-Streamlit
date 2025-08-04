@@ -29,3 +29,9 @@ urllib3==2.4.0
 wcwidth==0.2.13
 websockets==15.0.1
 xmod==1.8.1
+
+google-generativeai
+streamlit
+PyPDF2
+python-dotenv
+inquirer
